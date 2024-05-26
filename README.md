@@ -34,4 +34,4 @@ To run the game, you need to:
 
 ## Project Origin
 
-This project is an extension of the Hangman project originally created by me You can find the original project [here](https://github.com/PiotrStus/Hangman).
+This project is an extension of the Hangman project originally created by me. You can find the original project [here](https://github.com/PiotrStus/Hangman).
